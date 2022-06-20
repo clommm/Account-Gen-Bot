@@ -1,0 +1,10 @@
+{
+   "Netflix": {
+      "cooldown": "200",
+      "type": "Premium"
+   },
+   "Crunchyroll": {
+      "cooldown": "10800",
+      "type": "Free"
+   }
+}
